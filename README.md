@@ -41,6 +41,7 @@ Clone this repository
 
 git clone https://github.com/SyedaNaqvi9/habit-tracker.git
 
+Access link: https://syedanaqvi9.github.io/Habit-Tracker/
 
 Open index.html in your browser.
 
