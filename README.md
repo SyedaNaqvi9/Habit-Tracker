@@ -39,7 +39,7 @@ JavaScript (ES6+) – logic, DOM manipulation, localStorage
 
 Clone this repository
 
-git clone https://github.com/your-username/habit-tracker.git
+git clone https://github.com/SyedaNaqvi9/habit-tracker.git
 
 
 Open index.html in your browser.
