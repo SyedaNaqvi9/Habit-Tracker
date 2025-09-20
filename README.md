@@ -52,6 +52,7 @@ background.js → Opens the app in a new tab when the extension is clicked
 
 Preview: https://syedanaqvi9.github.io/Habit-Tracker/
 
+Screenshots:
 
 Future Improvements
 
