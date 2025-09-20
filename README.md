@@ -59,8 +59,8 @@ Add icons for the Chrome extension
 
 Add habit editing/deleting
 
+Add daily reminders/notifications
+
 👩‍💻 Author
 
 Created by Sania Naqvi ✨ Feel free to fork this repo, contribute, or connect!
-
-Add daily reminders/notifications
