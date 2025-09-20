@@ -86,7 +86,7 @@ li {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    width: 300px;
+    width: 500px;
     transition: all 0.2s ease;
 }
 
@@ -113,20 +113,15 @@ span {
     .box {
         display: grid;
     }
-
+    li {
+        width: 300px;
+    }
 }
 
 @media screen and (max-width: 400px) {
     li {
-        list-style: none;
         font-size: 1em;
         padding: 5px;
-        border-radius: 15px;
-        background-color: #F0F4C3;
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
         width: 250px;
-        transition: all 0.2s ease;
     }
 }
