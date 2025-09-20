@@ -53,6 +53,7 @@ background.js → Opens the app in a new tab when the extension is clicked
 Preview: https://syedanaqvi9.github.io/Habit-Tracker/
 
 Screenshots:
+<img width="1470" height="751" alt="Screenshot 2025-09-20 at 10 14 53 am" src="https://github.com/user-attachments/assets/eb87ad3d-c2bd-4943-a293-737175e40280" />
 
 Future Improvements
 
